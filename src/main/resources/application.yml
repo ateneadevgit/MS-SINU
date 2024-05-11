@@ -1,0 +1,9 @@
+server:
+  port: 8021
+
+logging:
+  file:
+    name: /fusm-logs/sinu.log
+
+ms-sinu:
+  path: /api/v1/sinu
